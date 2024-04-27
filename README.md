@@ -1,5 +1,5 @@
 # product-category-classifier
- Multiclass classification using RNN and bidirectional LSTM to guess a category with the given product name
+ Multiclass classification using a bidirectional LSTM to guess a category with the given product name.
 
 # Evaluation
 - Loss: 0.780
